@@ -1,0 +1,53 @@
+1.	Print numbers from 1 to 10 using a for loop
+2.	Calculate the sum of numbers from 1 to 10 using a for loop
+3.	Print the elements of a list using a for loop
+4.	Calculate the product of elements in a list using a for loop
+5.	Print characters of a string using a for loop
+6.	Find the largest number in a list using a for loop
+7.	Find the average of numbers in a list using a for loop
+8.	Calculate factorial of a number using a while loop
+9.	Find the first occurrence of a number in a list using a while loop
+10.	Find the common elements in two lists using a for loop
+11.	Write a program to display the sum of n terms of even natural numbers
+12.	Write a program to find the Armstrong number for a given range of number
+13.	Write a program in to convert a decimal number into binary without using a list
+14.	Find the number of occurrences of a character in a String
+15.	How to find out if the given two strings are anagrams or not?
+16.	How do you remove all occurrences of a given character from the input string
+17.	Write a program using while loops to print the first 10 rows of Pascal's Triangle.
+18.	Create a  program to find the Greatest Common Divisor (GCD) and Least Common Multiple (LCM) of two numbers using a while loop.
+19.	Implement a program using a while loop to generate and print the Collatz sequence for a given starting number.
+20.	Create a program to find and print the first 5 pairs of consecutive prime numbers using a while loop.
+21.	Write a program to transpose a given matrix using a while loop
+22.	Implement a program using while loops to print a palindromic pyramid pattern
+     1
+   121
+  12321
+ 1234321
+123454321
+23.	Create a program using for loops to generate a 3x3 magic square (a square in which the sums of the numbers in each row, column, and both main diagonals are the same).
+24.	Create a program using for loops to print a square matrix in spiral order
+1     2   3   4
+12 13 14   5
+11 16 15   6
+10  9    8    7
+25.	Write a program using nested for loops to print a triangle of prime numbers
+   2
+  357
+ 111317
+26.	Implement a program using nested for loops to print a diamond pattern
+     1
+   212
+  32123
+ 4321234
+  32123
+   212
+    1
+
+27.	Calendar Generator:
+Build a program that generates a monthly calendar for a specified year and month. Use loops to iterate through the days of the week and the days of the month. Allow the user to input the year and month.
+28.	Simple Inventory System:
+Build a basic inventory management system where users can add, remove, and view items in their inventory. Utilize loops to handle user interactions and keep the program running until the user decides to exit.
+29.	To-Do List Manager: Implement a simple to-do list manager where users can add, remove, and mark tasks as completed. Utilize loops to repeatedly present the menu and handle user interactions until they choose to exit.
+30.	Pattern Recognition in Text: Develop a program that takes a text input and identifies patterns such as repeated words, palindromes, or specific sequences. Use loops to analyze the text and provide relevant information.
+

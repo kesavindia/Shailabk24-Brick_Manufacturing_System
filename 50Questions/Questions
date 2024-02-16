@@ -1,0 +1,171 @@
+1 Take values of length and breadth of a rectangle from user and check if it is square or not.
+
+2 Write a program to check whether a entered character is lowercase (a to z) or uppercase (A to Z).
+
+3 Write a program to get a number from the user and print whether it is positive or negative.#
+
+4 Write a program that reads a floating-point number and prints "zero" if the number is zero.
+Otherwise, print "positive" or "negative". Add "small" if the absolute value of the number is less than
+1, or "large" if it exceeds 1,000,000.
+
+5 Write a program that takes a number from the user and generates an integer between 1 and 7. It
+displays the weekday name.
+
+6 Write a program that requires the user to enter a single character from the alphabet. Print Vowel
+or Consonant, depending on user input. If the user input is not a letter (between a and z or A and Z),
+or is a string of length &gt; 1, print an error message.
+
+7 Write a program to display the cube of the given number up to an integer.
+
+8 Write a program that displays the sum of n odd natural numbers.
+
+9 Write a program that accepts three numbers from the user and prints "increasing" if the numbers
+are in increasing order, "decreasing" if the numbers are in decreasing order, and "Neither increasing
+or decreasing order" otherwise.
+
+10 Write a program that prompts the user to enter three names. Your program should display the
+names in descending order.
+
+11 Write a program to calculate the monthly telephone bills as per the following rule:
+
+Minimum Rs. 200 for up to 100 calls.
+
+Plus Rs. 0.60 per call for next 50 calls.
+
+Plus Rs. 0.50 per call for next 50 calls.
+
+Plus Rs. 0.40 per call for any call beyond 200 calls.
+
+12 Write a program to determine whether the year is a leap year or not.
+
+13 Write a program that asks the user to enter 3 numbers in three variables and then displays the
+largest number.#
+
+14 Write a program that asks the user to enter a number and displays whether entered number is an
+odd number or even number.#
+
+15 A student will not be allowed to sit in exam if his/her attendence is less than 75%.
+
+Take following input from user
+
+Number of classes held
+
+Number of classes attended.
+
+And print
+
+percentage of class attended
+
+Is student is allowed to sit in exam or not.
+
+16 A school has following rules for grading system:
+
+a. Below 25 - F
+
+b. 25 to 45 - E
+
+c. 45 to 50 - D
+
+d. 50 to 60 - C
+
+e. 60 to 80 - B
+
+f. Above 80 - A
+
+Ask user to enter marks and print the corresponding grade.
+
+17 A company decided to give bonus of 5% to employee if his/her year of service is more than 5
+years.
+
+Ask user for their salary and year of service and print the net bonus amount.
+
+18 Create a program to check if a number is a perfect number.
+
+19 Implement a program to reverse a string without using built-in functions.
+
+20 Develop a program to perform matrix multiplication.
+
+21 Implement a Java program to check if a given string is a valid IP address.
+
+22 Create a program to calculate the average of N numbers.
+
+23 Create a program to check if a number is a power of two.
+
+24 Create a program to calculate the compound interest.
+
+25 Implement a program to find the reverse of a given number.
+
+26 Write a Java program to check if a given number, is a strong number.
+
+27 Implement a program to calculate simple interest.
+
+28 Create a program to simulate a simple calculator with basic operations.
+
+29 Implement a program to check if a given number, is a perfect square.
+
+30 Develop a program to find the smallest among three numbers.
+
+31 Write a program to check if a number is an Armstrong number.
+
+32 Create a program to calculate the area of different geometric shapes (circle, rectangle, triangle).
+
+33 Write a program to convert temperature from Celsius to Fahrenheit and vice versa.
+
+34 Create a program to determine if a number is prime.
+
+35 Develop a program to find the roots of a quadratic equation.
+
+36 Given two strings, write a program to determine whether they are
+
+anagrams.
+
+37 Create a program to calculate the sum of digits of a given number.#
+
+38 Implement a program to find the LCM of two numbers.
+
+39 Write a program to find the prime factors of a number.
+
+40 Create a program to check if a number is a power of two.
+
+41 Develop a program to check if a number is an abundant number.
+
+42 Write a Java program to calculate the perimeter of a square.
+
+43 A triangle is valid if the sum of all the three angles is equal to 180 degrees. Write a program that
+asks the user to enter three integers as angles and check whether a triangle is valid or not.
+
+44 Bank Loan Approval:
+
+Implement a program to simulate a bank loan approval system. Consider factors such as credit score,
+income, and loan amount. Use nested if statements to determine whether the loan should be
+approved, rejected, or needs further evaluation.
+
+45 Flight Booking System:
+
+Develop a program for a flight booking system. Consider factors such as seat availability, passenger
+age, and class preference. Use nested if statements to determine if a booking is successful and
+calculate the ticket price.
+
+46 Medical Diagnosis:
+
+Create a program that simulates a medical diagnosis system. Consider symptoms input by the user
+and use nested if statements to suggest possible illnesses or conditions.
+
+47 Automated Teller Machine (ATM):
+
+Implement an ATM system where users can withdraw money, check balances, and deposit funds.
+Use nested if statements to validate transactions and handle various scenarios such as insufficient
+funds.
+
+48 Game Character Interaction:
+
+Design a text-based game where the player controls a character. Use nested if statements to handle
+different interactions based on the player&#39;s choices, leading to multiple possible outcomes.
+
+49 Smart Home Automation:
+
+Develop a program for a smart home system. Use nested if statements to simulate the automation
+of lights, temperature, and security based on user preferences and environmental conditions.
+
+50. Develop a program with a dynamic menu system where users can navigate through different
+options. Use nested if statements to handle user input and execute the corresponding functionality.
