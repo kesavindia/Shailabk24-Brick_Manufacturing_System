@@ -32,10 +32,7 @@ else:
         for j in range(columns_B):
             row.append(0)
         result_matrix.append(row)
-
-
-
-
+print(result_matrix)
     # Matrix Multiplication
     for i in range(rows_A):
         for j in range(columns_B):
@@ -46,3 +43,8 @@ else:
     print("Result Matrix:")
     for row in result_matrix:
         print(row)
+1
+3 5
+7 9 11
+13 15 17 19
+21 23 25 27 29
